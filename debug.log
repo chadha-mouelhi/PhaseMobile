@@ -1,0 +1,168 @@
+[0519/004607.928:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/004607.928:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/004607.928:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/012231.524:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 45
+[0519/012231.556:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0519/012305.905:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 55
+[0519/012325.994:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 5
+[0519/012326.010:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 63
+[0519/012754.425:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.3.2", source: https://www.codenameone.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 (2)
+[0519/012754.455:INFO:CONSOLE(116)] "Uncaught ReferenceError: Paddle is not defined", source: https://www.codenameone.com/ (116)
+[0519/012754.493:INFO:CONSOLE(0)] "An <img> element was lazyloaded with loading=lazy, but had no dimensions specified. Specifying dimensions improves performance. See https://crbug.com/954323", source: https://www.codenameone.com/ (0)
+[0519/012800.106:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://facebook.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.codenameone.com/ (0)
+[0519/012843.539:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/012843.915:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/012843.915:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/013123.752:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/013124.182:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/013124.182:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/013126.889:INFO:CONSOLE(1)] "The devicemotion events are blocked by feature policy. See https://github.com/WICG/feature-policy/blob/master/features.md#sensor-features", source:  (1)
+[0519/013126.889:INFO:CONSOLE(1)] "The deviceorientation events are blocked by feature policy. See https://github.com/WICG/feature-policy/blob/master/features.md#sensor-features", source:  (1)
+[0519/014955.700:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/014956.134:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/014956.134:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/015135.582:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/015135.972:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/015135.972:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/103228.431:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/103230.797:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/103230.797:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/103922.791:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/103923.103:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/103923.103:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/104331.674:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/104332.016:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/104332.016:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/104343.905:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/104344.171:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/104344.171:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/104519.126:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/104519.445:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/104519.445:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/110153.615:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110153.664:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110203.296:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110203.781:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110203.807:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110213.341:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110213.496:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110222.985:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110223.498:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110233.147:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110233.335:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110303.585:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110313.750:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110313.862:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110323.851:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110323.959:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110333.585:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110334.008:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110343.733:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110343.930:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110353.870:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110354.154:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110403.638:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110404.026:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110413.799:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110413.956:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110423.914:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110424.122:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110433.699:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110434.052:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110443.821:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110443.943:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110453.940:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110454.100:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110503.707:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110504.052:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110513.805:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110514.036:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110523.939:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110524.166:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110533.739:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110534.056:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110543.886:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110544.056:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110554.040:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110554.197:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110640.076:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110650.262:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110650.339:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110700.330:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110700.489:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110710.110:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110710.604:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110740.481:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110750.628:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/110750.797:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0519/113328.098:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/113328.582:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/113328.582:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/125332.807:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/125333.297:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/125333.297:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/135008.594:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/135008.992:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/135008.992:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/135302.623:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/135302.710:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/135302.710:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/144406.523:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/144406.903:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/144406.903:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/191241.907:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/191245.004:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/191245.004:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/191406.415:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/191406.764:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/191406.764:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/191640.141:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/191640.519:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/191640.519:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/210909.831:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/210911.529:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/210911.529:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/211810.602:INFO:CONSOLE(1)] "Refused to set the document's base URI to 'https://firebasehostingproxy.page.link/' because it violates the following Content Security Policy directive: "base-uri 'self'".
+", source: https://forms.gle/7kPLjtV8foLb9hCu8 (1)
+[0519/211811.039:INFO:CONSOLE(433)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
+[0519/211811.039:INFO:CONSOLE(433)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-devplatform/_/js/k=boq-devplatform.DurableDeepLinkUi.en_US.YVTIpk_UBIk.es5.O/am=BAAC/d=1/excm=_b,_tp,viewddl/ed=1/dg=0/wt=2/rs=ADpVLP5CTnZ9Ipz8r8jzBte_rpSisuawQg/m=_b,_tp (433)
