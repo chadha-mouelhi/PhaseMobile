@@ -4,49 +4,16 @@
  * and open the template in the editor.
  */
 package com.mycompany.myapp.gui;
-
-
-
 import com.mycompany.myapp.services.CategorieService;
-
 import com.codename1.ui.Container;
 import com.codename1.ui.FontImage;
 import com.codename1.ui.Form;
 import com.codename1.ui.Label;
 import com.codename1.ui.layouts.BoxLayout;
-import com.codename1.ui.Container;
-import com.codename1.ui.FontImage;
-import com.codename1.ui.Form;
-import com.codename1.ui.Label;
-import com.codename1.ui.TextField;
-import com.codename1.ui.layouts.BoxLayout;
-
-
-import com.codename1.ui.Button;
-import com.codename1.ui.Dialog;
-import com.codename1.ui.Display;
-import com.codename1.ui.Image;
-import com.codename1.ui.Toolbar;
-import com.codename1.ui.layouts.BorderLayout;
 import com.codename1.ui.plaf.Style;
-import com.codename1.ui.util.Resources;
-;
-
-import java.util.List;
-
-
 import com.codename1.ui.Button;
-import com.codename1.ui.Dialog;
-import com.codename1.ui.events.ActionEvent;
-import com.codename1.ui.events.ActionListener;
-import com.codename1.ui.util.Resources;
 import com.mycompany.myapp.entities.Categorie;
-
-
-
 import java.util.List;
-
-
 
 public class ListCategorieGui extends Form{
  
@@ -109,8 +76,8 @@ public class ListCategorieGui extends Form{
           
            
             btnModifier.addPointerPressedListener(l->{     
-      
-           //  new ModifierCategorieForm(previous,e).show();
+     
+            new ModifierCategorieForm(previous,e).show();
 
 
         

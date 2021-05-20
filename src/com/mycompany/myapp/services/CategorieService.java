@@ -153,11 +153,9 @@ public class CategorieService {
     }
     
       public boolean modifierCategorie(Categorie t) {
-           String url = Statics.BASE_URL + "/updateCategorie?ide=" + t.getId()+ "&nomcategorie=" + t.getNomcategorie()+"&description=" + t.getDescription();
-          
-          
-  
-     
+           String url = Statics.BASE_URL + "/updateCategorie?id=" + t.getId()+ "&nomcategorie=" + t.getNomcategorie()+"&description=" + t.getDescription();
+            req.setUrl(url);
+        
         req.addResponseListener(new ActionListener<NetworkEvent>() {
             @Override
             public void actionPerformed(NetworkEvent evt) {
